@@ -97,5 +97,8 @@ Production Bots Execution • Python (Pandas, Data Handling, Automation)
 ### GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamescito&show_icons=true&theme=tokyonight&count_private=true" alt="James's GitHub Stats" />
+  <a href="https://github.com/jamescito">
+    <img src="https://img.shields.io/github/followers/jamescito?label=Followers&style=for-the-badge&color=0078D4&logo=github" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/jamescito?label=Stars&style=for-the-badge&color=239120&logo=github" alt="Stars" />
+  </a>
 </p>
